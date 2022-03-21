@@ -43,7 +43,7 @@ public class CommonDef {
 
 	// static WebDriver driver = DriverFactory.getCurrentDriver();
 	static WebDriver driver;
-
+//
 	public static String captureScreen() {
 		String path;
 		File trgtPath = null;
